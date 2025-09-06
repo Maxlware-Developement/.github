@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="Maxlware" src="https://github.com/user-attachments/assets/a1b5f135-482f-4b3b-a91d-53f18b14161e" />
+
 # Maxlware Development
 
 > Created by [@maxlware-fr](https://github.com/maxlware-fr) — Building modern, efficient, and minimal software solutions.
