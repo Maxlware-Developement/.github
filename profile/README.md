@@ -1,5 +1,5 @@
 <!-- Maxlware Developement -->
 
 <p align="center">
-<img width="1280" height="720" alt="bannière main (2)" src="https://github.com/user-attachments/assets/6292996c-352d-4ecc-b379-ff92f2b9a211" />
+<img width="600" height="140" alt="Maxlware Developement" src="https://github.com/user-attachments/assets/941304b6-9eb4-483e-8889-b940f9616a22" />
 </p>
